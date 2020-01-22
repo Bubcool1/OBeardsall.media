@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-auth-nope</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Bot-bot" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Group-21" sketch:type="MSLayerGroup" transform="translate(-38.000000, -341.000000)" fill="#FFFFFF">
+            <g id="Group" transform="translate(30.000000, 333.000000)" sketch:type="MSShapeGroup">
+                <g id="Rectangle-468-+-=-Server-+-Check">
+                    <path d="M15,16.7956546 L10.1812308,21.5 L8.5,19.7029408 L13.1630779,15.002351 L8.5,10.45 L10.3864615,8.5 L15,13.1506519 L19.6135385,8.5 L21.5,10.45 L16.8369221,15.002351 L21.5,19.7029408 L19.8187692,21.5 L15,16.7956546 Z" id="icon-auth-nope"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
