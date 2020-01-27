@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Startpage</title>
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+	
+	<!--IF YOU DONT WANT SEARCH BAR ON STARTPAGE..DELETE THE ENTIRE STYLE SECTION-->
+	<style type="text/css">
+	form {
+		position: absolute;				
+		right: 3.5%;
+		top: 5%;
+		width: 25%;
+		text-align: center;
+		opacity: 0.4;
+	}
+	
+	input {
+		-webkit-transition: all 0.5s ease-in-out;
+		-moz-transition: all 0.5s ease-in-out;
+		-o-transition: all 0.5s ease-in-out;
+		-ms-transition: all 0.5s ease-in-out;
+		transition: all 0.5s ease-in-out;
+		
+		width: 100%;
+		font-size: 15px;
+		font-weight: normal;
+		outline:none;
+		border: none;
+		border-radius: 20px;
+		min-width: 100px;
+		padding: 7px 0 7px 7px;
+	}
+	</style>
+</head>
+<body>
+	<form id="f" method="get" action="http://google.com/search">
+		<input id="q" type="text" autocomplete="off" required="required" autofocus="autofocus" placeholder="Search..." name="q"/>
+	</form>
+	
+
+</body>
+</html>
