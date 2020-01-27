@@ -1,0 +1,374 @@
+shop: 
+  armour: 
+    item: DIAMOND_CHESTPLATE
+    lore: 
+      - "Get yo self some protection"
+    name: Armour
+    offers: 
+      - 
+        amount: 1
+        price: 
+          - 
+            amount: 0
+            type: IRON_INGOT
+        reward: 
+          - 
+            type: LEATHER_HELMET
+      - 
+        amount: 1
+        price: 
+          - 
+            amount: 0
+            type: IRON_INGOT
+        reward: 
+          - 
+            type: LEATHER_LEGGINGS
+      - 
+        amount: 1
+        price: 
+          - 
+            amount: 20
+            type: IRON_INGOT
+        reward: 
+          - 
+            type: CHAIN_LEGGINGS
+      - 
+        amount: 1
+        price: 
+          - 
+            amount: 12
+            type: GOLD_INGOT
+        reward: 
+          - 
+            type: IRON_LEGGINGS
+      - 
+        amount: 1
+        price: 
+          - 
+            amount: 3
+            type: DIAMOND
+        reward: 
+          - 
+            type: DIAMOND_LEGGINGS
+    order: 50
+    permission: bw.base
+  axes: 
+    item: DIAMOND_AXE
+    lore: 
+      - "Break those blocks."
+    name: Axes
+    offers: 
+      - 
+        price: 
+          - 
+            amount: 10
+            type: IRON_INGOT
+        reward: 
+          - 
+            amount: 1
+            type: WOODEN_AXE
+      - 
+        price: 
+          - 
+            amount: 20
+            type: IRON_INGOT
+        reward: 
+          - 
+            amount: 1
+            type: STONE_AXE
+      - 
+        price: 
+          - 
+            amount: 3
+            type: GOLD_INGOT
+        reward: 
+          - 
+            amount: 1
+            type: IRON_AXE
+      - 
+        price: 
+          - 
+            amount: 9
+            type: GOLD_INGOT
+        reward: 
+          - 
+            amount: 1
+            type: DIAMOND_AXE
+      - 
+        price: 
+          - 
+            amount: 20
+            type: IRON_INGOT
+        reward: 
+          - 
+            amount: 1
+            type: SHEARS
+    order: 30
+    permission: bw.base
+  blocks: 
+    item: MAGENTA_WOOL
+    lore: 
+      - "Get you some blockage"
+    name: Blocks
+    offers: 
+      - 
+        price: 
+          - 
+            amount: 4
+            type: IRON_INGOT
+        reward: 
+          - 
+            amount: 16
+            type: MAGENTA_WOOL
+      - 
+        price: 
+          - 
+            amount: 12
+            type: IRON_INGOT
+        reward: 
+          - 
+            amount: 1
+            type: LEGACY_HARD_CLAY
+      - 
+        price: 
+          - 
+            amount: 12
+            type: IRON_INGOT
+        reward: 
+          - 
+            amount: 4
+            type: GLASS
+      - 
+        price: 
+          - 
+            amount: 24
+            type: IRON_INGOT
+        reward: 
+          - 
+            amount: 12
+            type: ENDER_STONE
+      - 
+        price: 
+          - 
+            amount: 16
+            type: GOLD_INGOT
+        reward: 
+          - 
+            amount: 16
+            type: OAK_PLANKS
+      - 
+        price: 
+          - 
+            amount: 4
+            type: EMERALD
+        reward: 
+          - 
+            amount: 4
+            type: OBSIDIAN
+    order: 10
+    permission: bw.base
+  bows: 
+    item: BOW
+    lore: 
+      - "Bow spamming"
+    name: “Bow"
+    offers: 
+      - 
+        amount: 8
+        price: 
+          - 
+            amount: 6
+            type: EMERALD
+        reward: 
+          - 
+            type: ARROW
+    order: 70
+    permission: bw.base
+  pickaxes: 
+    item: DIAMOND_PICKAXE
+    lore: 
+      - "Break those blocks."
+    name: Pickaxes
+    offers: 
+      - 
+        price: 
+          - 
+            amount: 10
+            type: IRON_INGOT
+        reward: 
+          - 
+            amount: 1
+            type: WOODEN_PICKAXE
+      - 
+        price: 
+          - 
+            amount: 20
+            type: IRON_INGOT
+        reward: 
+          - 
+            amount: 1
+            type: STONE_PICKAXE
+      - 
+        price: 
+          - 
+            amount: 3
+            type: GOLD_INGOT
+        reward: 
+          - 
+            amount: 1
+            type: IRON_PICKAXE
+      - 
+        price: 
+          - 
+            amount: 9
+            type: GOLD_INGOT
+        reward: 
+          - 
+            amount: 1
+            type: DIAMOND_PICKAXE
+      - 
+        price: 
+          - 
+            amount: 20
+            type: IRON_INGOT
+        reward: 
+          - 
+            amount: 1
+            type: SHEARS
+    order: 20
+    permission: bw.base
+  pots: 
+    item: GLASS_BOTTLE
+    lore: 
+      - "Yeet pots, maybe vanish pots, you choose."
+    name: Potions
+    offers: 
+      - 
+        amount: 1
+        price: 
+          - 
+            amount: 4
+            type: DIAMOND
+        reward: 
+          - 
+            type: INVISIBILITY
+    order: 60
+    permission: bw.base
+  swords: 
+    item: DIAMOND_SWORD
+    lore: 
+      - "Stabbin babies."
+    name: Swords
+    offers: 
+      - 
+        price: 
+          - 
+            amount: 0
+            type: IRON_INGOT
+        reward: 
+          - 
+            amount: 1
+            type: WOODEN_SWORD
+      - 
+        price: 
+          - 
+            amount: 10
+            type: IRON_INGOT
+        reward: 
+          - 
+            amount: 1
+            type: STONE_SWORD
+      - 
+        price: 
+          - 
+            amount: 7
+            type: GOLD_INGOT
+        reward: 
+          - 
+            amount: 1
+            type: IRON_SWORD
+      - 
+        price: 
+          - 
+            amount: 4
+            type: EMERALD
+        reward: 
+          - 
+            amount: 1
+            type: DIAMOND_SWORD
+      - 
+        price: 
+          - 
+            amount: 5
+            type: GOLD_INGOT
+        reward: 
+          - 
+            amount: 1
+            meta: 
+              ==: ItemMeta
+              enchants: 
+                KNOCKBACK: 2
+              meta-type: UNSPECIFIC
+            type: STICK
+    order: 40
+    permission: bw.base
+  utilities: 
+    item: TNT
+    lore: 
+      - "Yeet Items"
+    name: “Utilities"
+    offers: 
+      - 
+        amount: 1
+        price: 
+          - 
+            amount: 4
+            type: GOLD_INGOT
+        reward: 
+          - 
+            type: TNT
+      - 
+        amount: 1
+        price: 
+          - 
+            amount: 4
+            type: EMERALD
+        reward: 
+          - 
+            type: ENDER_PEARL
+      - 
+        amount: 1
+        price: 
+          - 
+            amount: 3
+            type: GOLD_INGOT
+        reward: 
+          - 
+            type: GOLDEN_APPLE
+      - 
+        amount: 1
+        price: 
+          - 
+            amount: 40
+            type: IRON_INGOT
+        reward: 
+          - 
+            type: FIRECHARGE
+      - wwdawawdawww
+        amount: 1
+        price: 40
+          - 
+            amount: 2
+            type: GOLD_INGOT
+        reward: 
+          - 
+            type: WATER_BUCKET
+    order: 70
+ c   permission: bw.base
+
+meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DAMAGE_ALL: 2
+            DURABILITY: 3
