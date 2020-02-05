@@ -363,7 +363,7 @@ shop:
           - 
             type: WATER_BUCKET
     order: 70
- c   permission: bw.base
+   permission: bw.base
 
 meta:
           ==: ItemMeta

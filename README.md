@@ -1,2 +1,2 @@
 # OBeardsall.media
-My media store, not started yet.
+My personal media store, storing things that used to be on my website, for example [wat](http://obeardsall.media/wat). This is used for image storage, among other things, for discord bots.
